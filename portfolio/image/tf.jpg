@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)file:///C:/Users/hp/Desktop/web%20development/web.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>web development is fun</title>
+    <link rel="stylesheet" href="./tf_files/style.css">
+    </head>
+    <body>
+        <header class="head" id="head">
+            <div class="wow">
+                <img src="./tf_files/person.jpg">
+            </div>
+            <div class="intro">
+                <div style="color: #ffc576; font-size: 50px; margin-bottom: 10px; font-weight: 600;">Hello, I'm</div>
+                <div style="color:white; font-size: 100px; margin-top: 10px; margin-bottom: 10px; font-weight: 900;">Nikhil <br> Chaudhary</div>
+                <div style="font-size: 40px; color: white;margin-top: 30px; font-weight: 400;">Software Engineer</div>
+            </div>
+            <div class="flex_menu">
+                <a href="file:///C:/Users/hp/Desktop/web%20development/web.html#head">Home</a>
+                <a href="file:///C:/Users/hp/Desktop/web%20development/web.html#about">About me</a>
+                <a href="file:///C:/Users/hp/Desktop/web%20development/web.html#project">Projects</a>
+                <a href="file:///C:/Users/hp/Desktop/web%20development/web.html#testimonial">Testimonial</a>
+                <a href="file:///C:/Users/hp/Desktop/web%20development/web.html#foot">Contact</a>
+            </div>
+        </header>
+        <div class="gh">
+            <div class="grid">
+                <section class="gele" id="about">
+                    <div class="aboutgrid">
+                        <img src="./tf_files/about.png" class="aboutpic">  
+                        <div class="aboutdata">
+                            <div style="color:#ffc576; font-size: 20px; font-weight:400">ABOUT ME<br><br></div>
+                            <div style="color: white; font-weight: 800; font-size: 50px;">Why hire me for your next project?<br></div>
+                            <p style="color: white; font-size: 17px; word-spacing: 2px;">
+                                Meet my startup design agency <span style="color:#ffc576">Shape Rex</span>
+                                Currently I am working at <span style="color:#ffc576">CodeNext</span>
+                                as Product Designer. Before that I've worked at <span style="color:#ffc576">SpurBee</span>
+                                , India as UX, UI Designer.
+                            </p>
+                            <p style="color: white; font-size: 17px; word-spacing: 2px;">
+                                I love to work in User Experience &amp; User Interface designing. Because I love to solve
+                                the design problem and find easy and better solutions to solve it. I always try my best to marke
+                                good user interface with the best user experience. I have been working as a Visual designer from.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <section style="grid-column: 2/3;" id="project">
+                    <div style="color:#ffc576; font-size: 30px; font-weight: 600; margin: 20px">PROJECTS</div><br>
+                    <div class="project_flex">
+                        <div class="project_flex_container">
+                            <img src="./tf_files/market.jpg" class="project_pic"><br><br>
+                            <div style="color:#ffc576;font-size: 12px;font-weight: 200;">APP,  BRANDING,  PRODUCT</div><br>
+                            <div style="color: white; font-size: 35px; font-weight: 500">Project Market Panel</div><br>
+                            <div style="color: white; font-size: 20px; font-weight: 350">Discover business strategy a thoughtful process</div><br>
+                            <div class="readmore">READ MORE</div><br>
+                        </div>
+                        <div class="project_flex_container">
+                            <img src="./tf_files/gta.jpg" class="project_pic"><br><br>
+                            <div style="color:#ffc576;font-size: 12px;font-weight: 200;">GAME,  INTERIOR,  WEB</div><br>
+                            <div style="color: white; font-size: 35px; font-weight: 500">Grand Theft Auto Developer</div><br>
+                            <div style="color: white; font-size: 20px; font-weight: 350">Added the mechanism of NPC car and road travel</div><br>
+                            <div class="readmore">READ MORE</div><br>
+                        </div>
+                        <div class="project_flex_container">
+                            <img src="./tf_files/webs.jpg" class="project_pic"><br><br>
+                            <div style="color:#ffc576;font-size: 12px;font-weight: 200;">APP,  GAME,  WEB</div><br>
+                            <div style="color: white; font-size: 35px; font-weight: 500">Designed Web Site for ABC</div><br>
+                            <div style="color: white; font-size: 20px; font-weight: 350">The web site can be visited in the read more</div><br>
+                            <div class="readmore">READ MORE</div><br>
+                        </div>
+                    </div>
+                </section>
+                <section class="gele" id="testimonial">
+                    <div style="color:#ffc576; font-size: 20px; font-weight: 500; margin: 20px">TESTIMONIAL</div>
+                    <div style="color:white; font-size: 38px; font-weight: 600; margin: 20px">Happy Clients Says</div><br><br>
+                    <div class="testimonial_flex">
+                        <div class="testimonial_flex_container">
+                            <div class="testimonial_person">
+                                <div style="color: white; font-size: 27px; font-weight: 500">JEFF BEZOS</div>
+                                <div style="color:#ffc576;font-size: 12px;font-weight: 200;">CEO/founder Amazon</div>
+                            </div>
+                            <img class="testimonial_person_image" src="./tf_files/jeff.jpg">
+                            <div class="testimonial">
+                                I really honor the effort you have put in leading your team's current project. A number of them have expressed to me their appreciation for the one-on-one guidance and support you’ve provided them, especially when the deadline was approaching.
+                            </div>
+                        </div>
+                        <div class="testimonial_flex_container">
+                            <img src="./tf_files/sundar.jpg" class="testimonial_person_image">
+                            <div class="testimonial_person">
+                                <div style="color: white; font-size: 27px; font-weight: 500">SUNDAR PICHAI</div>
+                                <div style="color:#ffc576;font-size: 12px;font-weight: 200;">CEO Alphabet and Google</div>
+                            </div>
+                            
+                            <div class="testimonial">
+                                I would like to express our sincere admiration for the amazing efforts put by you in the workplace. We appreciate everything that you have done over the past several years since you have joined us. 
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <footer class="foot">
+                    <div style="color: #ffc576; font-size: 25px; font-weight: 350;">Social Media<br><br></div>
+                    <div style="color: white; font-size: 60px; font-weight: 640;">Let's be Friends</div>
+                    <br><br><br>
+                    <div class="foot_flex" id="foot">
+                        <div>
+                            <span class="word_1">Linkedin</span>
+                            <br><br>
+                            <span class="word_2">Professional social profile</span>
+                        </div>
+                        <div>
+                            <span class="word_1">Twitter</span>
+                            <br><br>
+                            <span class="word_2">Random Thoughts</span>
+                        </div>
+                        <div>
+                            <span class="word_1">Phone No.</span>
+                            <br><br>
+                            <span class="word_2">2404-233-232</span>
+                        </div>
+                        <div>
+                            <span class="word_1">Email</span>
+                            <br><br>
+                            <span class="word_2">someone@domain_name.com</span>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+            
+        </div>
+       
+</body></html>
